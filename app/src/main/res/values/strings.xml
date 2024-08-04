@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SurveyheartApp</string>
+    <string name="fill_survey">Please Fill the Survey</string>
+    <string name="baseUrl">https://dummyjson.com/</string>
+    <string name="fill_survery">Fill survery</string>
+    <string name="add_survey">Add Survey</string>
+    <string name="add_todo">Add Todo</string>
+    <string name="are_you_sure_to_delete">Are you Sure you want to delete?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>
